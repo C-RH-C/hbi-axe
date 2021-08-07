@@ -29,8 +29,8 @@ First, let's create the virtual environment using python 3.6
 ```
 Now let's clone the project and access the directory
 ```
-# git clone https://github.com/waldirio/c.rh.c-tools.git
-# cd c.rh.c-tools/hbi-axe/
+# git clone https://github.com/C-RH-C/hbi-axe.git
+# cd hbi-axe/
 ```
 At this moment, let's activate the virtual environment
 ```
